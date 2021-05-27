@@ -5,3 +5,4 @@ Códigos desenvolvidos a partir de aulas da plataforma ORIGAMID e outros profess
 
 Demonstração
 
+https://github.com/rohuldson/CSS_Animation_training/blob/main/apresentation.gif?raw=true
